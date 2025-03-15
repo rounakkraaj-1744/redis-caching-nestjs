@@ -49,6 +49,8 @@ TUTORIAL/
 │   │   ├── employee.module.ts
 │   │   ├── employee.service.spec.ts
 │   │   ├── employee.service.ts
+|   |── redis/
+|   |   |── redis.service.ts
 │   ├── app.module.ts
 │   ├── main.ts
 ├── test/
